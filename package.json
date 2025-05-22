@@ -1,0 +1,23 @@
+{
+  "name": "@anio-software/enkore.target-js",
+  "version": "0.0.0",
+  "author": "Anio Software <info@anio.software>",
+  "description": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enkore-org/target-js.git"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@anio-software/enkore": "^0.0.56",
+    "@anio-software/enkore-private.spec": "^0.281.0",
+    "@anio-software/enkore-private.target-js-factory": "^0.0.90",
+    "@anio-software/enkore.core": "^0.10.0",
+    "@anio-software/enkore.target-js-none": "^0.0.90-canary-92e3afc6-a04669e1"
+  },
+  "peerDependencies": {
+    "@types/node": ">=22.7.x",
+    "@types/web": ">=0.0.235"
+  }
+}
