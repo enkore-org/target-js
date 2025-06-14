@@ -23,5 +23,13 @@
     "react": ">=19.1.x",
     "react-dom": ">=19.1.x",
     "css-modules-ts-plugin": ">=0.0.8"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "react-dom": {
+      "optional": true
+    }
   }
 }
