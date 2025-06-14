@@ -19,6 +19,7 @@
   "peerDependencies": {
     "@types/node": ">=22.7.x",
     "@types/web": ">=0.0.235",
+    "@types/react": ">=19.1.x",
     "css-modules-ts-plugin": ">=0.0.8"
   }
 }
