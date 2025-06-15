@@ -11,18 +11,18 @@
   "type": "module",
   "devDependencies": {
     "@anio-software/enkore": "^0.0.56",
-    "@anio-software/enkore-private.spec": "^0.293.0",
+    "@anio-software/enkore-private.spec": "^0.294.0",
     "@anio-software/enkore-private.target-js-factory": "^0.0.100",
     "@anio-software/enkore.core": "^0.10.0",
     "@anio-software/enkore.target-js-none": "^0.0.90-canary-92e3afc6-a04669e1"
   },
   "peerDependencies": {
     "@types/node": ">=22.7.x",
-    "@types/web": ">=0.0.235",
     "@types/react": ">=19.1.x",
+    "@types/web": ">=0.0.235",
+    "css-modules-ts-plugin": ">=0.0.8",
     "react": ">=19.1.x",
-    "react-dom": ">=19.1.x",
-    "css-modules-ts-plugin": ">=0.0.8"
+    "react-dom": ">=19.1.x"
   },
   "peerDependenciesMeta": {
     "react": {
