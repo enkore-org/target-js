@@ -12,7 +12,7 @@
   "devDependencies": {
     "@anio-software/enkore": "^0.0.56",
     "@anio-software/enkore-private.spec": "^0.304.0",
-    "@anio-software/enkore-private.target-js-factory": "^0.0.109",
+    "@anio-software/enkore-private.target-js-factory": "^0.0.110",
     "@anio-software/enkore.core": "^0.10.0",
     "@anio-software/enkore.target-js-none": "^0.0.90-canary-92e3afc6-a04669e1"
   },
